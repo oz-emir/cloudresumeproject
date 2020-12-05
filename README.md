@@ -2,7 +2,7 @@
 
 www.emiroz.com
 
-In this project I created a website to host my resume. The website contact form is connected to a Database and Notification Service to store each and notify me when there is a submission. Services that I used: AWS S3, SNS, DynamoDB, Route 53, ACM, CloudFront, IAM, Lambda and API Gateway. The following steps were taken in order to complete this project:
+In this project I created a website to host my resume. The website contact form is connected to a Database and Notification Service to store each submission in a table and notify me when there is a submission. Services that I used: AWS S3, SNS, DynamoDB, Route 53, ACM, CloudFront, IAM, Lambda and API Gateway. The following steps were taken in order to complete this project:
 
 	Created a S3 Bucket and enable the static website hosting.
 
